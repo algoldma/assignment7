@@ -4,7 +4,7 @@
 <head>
 
 <!-- **** you need to put in y our own title below -->
-  <title>Christine E. Bolognino</title>
+  <title>LoVermont Hiking</title>
 	 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
 
@@ -24,33 +24,18 @@ look for your resume. -->
 
 <body>
   
-  <nav class="top-right-menu">
-		<ul>
-			
-				<li  class="current"><a href="/">Home</a></li>
-			
-				<li ><a href="/page1">Directory</a></li>
-			
-				<li ><a href="/page2">Resources</a></li>
-			
-				<li ><a href="/page3">Join The Outing Club</a></li>
-			
-		</ul>
-		
-		
-  </nav>
+  
   
   <header>
   
       <center>
       <h1>LoVermont Hiking</h1>
-       <h2>A UVM Student's Guide to Hiking the Burlington Area</h2>
+      <h2>A UVM Student's Guide to Hiking the Burlington Area</h2>
       </center>
   
   </header>
   
 
-  <img id="background-image" width="1280" height="1400" alt="background image" class="bg_stretch" src="trees.jpg">
 
 <div class="content">
   
@@ -75,7 +60,23 @@ look for your resume. -->
    </div>
   
 		 
-  <footer></footer>
+    <footer>
+        <nav class="footer-menu">
+		<ul>
+			
+				<li  class="current"><a href="/">Home</a></li>
+			
+				<li ><a href="/page1">Directory</a></li>
+			
+				<li ><a href="/page2">Resources</a></li>
+			
+				<li ><a href="/page3">Join The Outing Club</a></li>
+			
+		</ul>
+		
+		
+        </nav>
+    </footer>
 
 </body>
 </html>
