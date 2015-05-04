@@ -202,7 +202,7 @@ ul.dropdown li a.mainContent{
     padding:1%;
     margin-left: 0em;
     margin-right:0em;
-    background-color:(255,255,255,.5);
+    background-color:rgba(255,255,255,.5);
 }
 ul.dropdown li{
     display:inline;
@@ -275,6 +275,7 @@ img{
     width:33%;
     height:33%;
     display:inline;
+    margin-bottom:-12%;
 }
 .dropdown .mainContent{
     transition:background-color .5s ease;

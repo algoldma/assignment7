@@ -20,7 +20,56 @@ body {
     font-family: 'Quicksand', sans-serif;
     margin: 36px auto;
     background-color: rgb(255, 240, 209);
-    background-image: url("trees.jpg");
+
+}
+
+#screenshot1 {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot1.png');
+   width: 700px;
+   height: 393px;
+}
+
+#screenshot1:hover {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot1r.png');
+}
+
+#screenshot2 {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot1r.png');
+   width: 700px;
+   height: 393px;
+}
+
+#screenshot2:hover {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot2r.png');
+}
+
+#screenshot3 {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot2r.png');
+   width: 700px;
+   height: 393px;
+}
+
+#screenshot3:hover {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot4r.png');
+}
+#screenshot4 {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot4r.png');
+   width: 700px;
+   height: 393px;
+}
+
+#screenshot4:hover {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot5.png');
+}
+
+#screenshot5 {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot5.png');
+   width: 700px;
+   height: 393px;
+}
+
+#screenshot5:hover {
+   background-image: url('https://cbologni.w3.uvm.edu/cs142/assignment7/siteshot5r.png');
 }
 
 h2{

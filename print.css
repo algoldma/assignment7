@@ -9,16 +9,23 @@ and open the template in the editor.
 */
 
 *{
-    border:none;
+    border:0px solid transparent;
     color:black;
-    width:100%;
+    clear:both;
+    position:initial;
+    max-width:100%;
+    box-shadow:none;
+    margin:0.25em;
 }
 a{
     border-style:none;
     border:0px solid transparent;
 }
-nav{width:100%;}ul{width:100%}
-.mainNav{display:inline;}
+nav{
+    width:100%;
+    display:none;
+}
+ul{width:100%}
 nav a{
     border:0px transparent;
     border-style:none;
@@ -31,7 +38,61 @@ header{
     box-shadow:none;
     border:0px transparent;
     width:100%;
+    margin-bottom:-6em;
+    margin-top:-1.25em;
+}
+h1{
+    box-shadow:none;
+    border:0px transparent;
+
 }
 footer{
     display:none;
 }
+a.mainContent{
+    width:10em;
+    height:auto;
+}
+.mountPhilo{
+    background-image: url('mountphilo.jpg');
+    margin:0em;
+}
+.mountMansfield{
+    background-image: url('mountmansfield.jpg');
+    margin:0em;
+}
+.haystackMountain{
+    background-image: url('haystackmountain.jpg');
+    margin:0em;
+}
+.snakeMountain{
+    background-image: url('snakemountain.jpg');
+    margin:0em;
+}
+.mountAbraham{
+    background-image: url('mountabraham.jpg');
+    margin:0em;
+}
+.mountEllen{
+    background-image: url('mountellen.jpg');
+    margin:0em;
+}
+.camelsHump{
+    background-image: url('camelshump.jpg');
+    margin:0em;
+}
+.hungerMountain{
+    background-image: url('hungermountain.jpg');
+    margin:0em;
+}
+.mountKillington{
+    background-image: url('killingtonmountain.jpg');
+    margin:0em;
+}
+    img{
+        position:relative;
+        top:0em;
+        left:7em;
+        margin-bottom:0em;
+    }
+    section.mainContent{margin-top:-.25em;}
