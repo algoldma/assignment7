@@ -120,36 +120,44 @@ a.mainContent{
     border:2px solid transparent;
     transition: box-shadow .5s ease;
     padding:.8em;
+    background-size: 80px 70px;
+    margin-top:-1em;
 }
     .mountPhilo{
-        background-size: 100% 100%;
         background-image: url('mountphilo.jpg');
-        width:520px;
-        height:316px;
+        display:inline-block;
     }
     .mountMansfield{
-        background-image: url('mountmansfield.jpg')
+        background-image: url('mountmansfield.jpg');
+        display: inline-block;
     }
     .haystackMountain{
-        background-image: url('haystackmountain.jpg')
+        background-image: url('haystackmountain.jpg');
+        display:inline-block;
     }
     .snakeMountain{
-        background-image: url('snakemountain.jpg')
+        background-image: url('snakemountain.jpg');
+        display:inline-block;
     }
     .mountAbraham{
-        background-image: url('mountabraham.jpg')
+        background-image: url('mountabraham.jpg');
+        display:inline-block;
     }
     .mountEllen{
-        background-image: url('mountellen.jpg')
+        background-image: url('mountellen.jpg');
+        display:inline-block;
     }
     .camelsHump{
-        background-image: url('camelshump.jpg')
+        background-image: url('camelshump.jpg');
+        display:inline-block;
     }
     .hungerMountain{
-        background-image: url('hungermountain.jpg')
+        background-image: url('hungermountain.jpg');
+        display:inline-block;
     }
-    .killingtonMountain{
-        background-image: url('killingtonmountain.jpg')
+    .mountKillington{
+        background-image: url('killingtonmountain.jpg');
+        display:inline-block;
     }
 ul.subNav{
     margin-left:24%;
