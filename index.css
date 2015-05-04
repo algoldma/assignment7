@@ -105,6 +105,10 @@ h1{
     margin-bottom:-9%;
     margin-top:13%;
 }
+.generalNav + section.mainContent{
+    margin-top:11em;
+    margin-bottom:18em;
+}
 .subNav + section.mainContent{
     margin-top:30em;
 }
