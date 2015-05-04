@@ -93,6 +93,9 @@ footer  {
     position:absolute;
     left:27%;
 }
+h3{
+    text-align:center;
+}
 h1{
     margin:12% auto 4% auto;
     box-shadow:  0px 0px 20px 7px rgba(255,255,255,0.9);
@@ -112,7 +115,10 @@ h1{
 .subNav + section.mainContent{
     margin-top:30em;
 }
-header h1{margin-top:0%;}
+header h1{
+    margin-top:0%;
+    width:auto;
+}
 a.mainContent{
     margin:2em;
     border:2px solid transparent;
@@ -196,6 +202,7 @@ ul.dropdown li a.mainContent{
     padding:1%;
     margin-left: 0em;
     margin-right:0em;
+    background-color:(255,255,255,.5);
 }
 ul.dropdown li{
     display:inline;
@@ -276,6 +283,10 @@ img{
     border-radius:0em;
     box-shadow: none;
     background-color: white;
+}
+.mainContent a{
+    display:block;
+    margin-bottom:1em;
 }
 @media screen and (max-width: 1100px) {
     .generalNav{left:19%;}
